@@ -17,6 +17,8 @@ email: "nicole.carlson@emory.edu"
 
 N471 Final Project Title: "BMI-, Parity-, and Mode of Labor Onset- Individualized Partographs from Consortium on Safe Labor dataset"
 
+Repository for this project planning can be found at [this github location](https://github.com/nicolecarlson/Project-Milestone-1).
+
 This project is part of my NIH-funded K01 study, "Metabolomics of Labor Dysfunction in African-American Women".  Partographs are graphical representations of cervical dilation over time during labor.  Traditionally, partographs include representations (lines, colored areas, etc) of population-generalizable limits for normal labor progress.  For my new partographs, I will be using data from a large, multi-site study (the Consortium on Safe Labor, or CSL study, N=228,000) to show normal labor progress for different groups of women.  Multiple partographs will be created for (individualized by) BMI grouping, parity (first labor vs. not) and by mode of labor onset (spontaneous labor vs. induced labor). Eventually, I will be using these individualized partographs to identify women in my study who demonstrated labor dystocia, defined as labor progression that is abnormally slow.  
 
 For this N741 project, I propose to use Rmd to clean the CSL dataset, select samples based on maternal characteristics (BMI group, parity, mode of labor onset), and prepare for multivariate analyses that will ultimately produce the labor traverse times I will need to build the individualized partographs. I've started this process in SPSS, but would like to instead do the work in Rmd format.  
